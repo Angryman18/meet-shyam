@@ -1,14 +1,27 @@
 {
-  "name": "cli",
+  "name": "meet-shyam",
   "version": "1.0.0",
-  "description": "",
+  "description": "know about shyam mahanta",
+  "main": "index.js",
   "bin": {
     "meet-shyam": "src/index.js"
   },
-  "type": "module",
-  "keywords": [],
-  "author": "",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angryman18/meet-shyam.git"
+  },
+  "keywords": [
+    "meet-shyam"
+  ],
+  "author": "Shyam Mahanta",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angryman18/meet-shyam/issues"
+  },
+  "homepage": "https://github.com/Angryman18/meet-shyam#readme",
   "dependencies": {
     "chalk": "^5.0.1",
     "chalk-animation": "^2.0.3"
