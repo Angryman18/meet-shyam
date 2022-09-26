@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "know about shyam mahanta",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "meet-shyam": "src/index.js"
   },
